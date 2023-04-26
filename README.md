@@ -10,7 +10,7 @@
 ## Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/felipe-gabriel-239a72199/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+<a href="https://www.linkedin.com/in/felipe-gabriel-239a72199/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="80" width="80"//></a>
 </div>
 
 <div>
