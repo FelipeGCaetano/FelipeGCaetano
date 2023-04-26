@@ -10,7 +10,7 @@
 ## Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/felipe-gabriel-239a72199/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="80" width="80"//></a>
+<a href="https://www.linkedin.com/in/felipe-gabriel-239a72199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/fee.gabriel_"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
