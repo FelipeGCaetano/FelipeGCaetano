@@ -23,4 +23,4 @@
 </div>
 
 ![Snake animation](https://github.com/FelipeGCaetano/FelipeGCaetano/blob/output/github-contribution-grid-snake.svg)
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
+
